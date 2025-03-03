@@ -39,7 +39,8 @@ xdg-desktop-portal-hyprland
 xdg-desktop-portal-gtk
 swappy
 
-# image processing
+# image processing & viewing
+imv
 imagemagick
 
 # user directories
