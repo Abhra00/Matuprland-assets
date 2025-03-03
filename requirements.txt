@@ -1,0 +1,105 @@
+/***
+ *    ┳┳┓┏┓┏┳┓┳┳┏┓┳┓┓ ┏┓┳┓┳┓  ┳┓┏┓┏┓┏┓┳┓┳┓┏┓┳┓┏┓┳┏┓┏┓
+ *    ┃┃┃┣┫ ┃ ┃┃┃┃┣┫┃ ┣┫┃┃┃┃━━┃┃┣ ┃┃┣ ┃┃┃┃┣ ┃┃┃ ┃┣ ┗┓
+ *    ┛ ┗┛┗ ┻ ┗┛┣┛┛┗┗┛┛┗┛┗┻┛  ┻┛┗┛┣┛┗┛┛┗┻┛┗┛┛┗┗┛┻┗┛┗┛
+ *                                                   
+ */
+
+
+# hyprland dependencies
+hyprland
+hyprpicker
+hyprlock
+hypridle
+swww
+foot
+swaync
+waybar
+
+# essential utilities
+libnotify
+nerd-fonts(geist-mono)
+rustup
+neovim
+zsh
+bat
+zoxide
+eza
+
+# package manager extras
+pacman-contrib
+
+# wayland utilities
+grim
+jq
+wl-clipboard
+cliphist
+rofi-wayland
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+swappy
+
+# image processing
+imagemagick
+
+# user directories
+xdg-user-dirs
+
+# bluetooth utilities
+bluez
+bluez-utils
+blueman
+
+# extra fonts
+noto-fonts-cjk
+noto-fonts-emoji
+
+# aur packages
+librewolf-bin
+matugen-bin
+python-pywalfox
+wlogout
+ttf-maple-beta
+ttf-maple-beta-nf
+ttf-maple-beta-nf-cn
+catnap
+
+# kernel & nvidia drivers
+linux-headers
+nvidia-dkms
+
+# file manager & media utilities
+thunar
+tumbler
+thunar-volman
+gvfs
+gvfs-mtp
+ffmpeg
+ffmpeg-thumbnailer
+playerctl
+
+# sound control
+pavucontrol
+
+# network & terminal utilities
+network-manager-applet
+tmux
+
+# qt theming
+kvantum
+qt5ct
+qt6ct
+qt5-wayland
+qt6-wayland
+
+# miscellaneous
+spotify-launcher
+fzf
+polkit
+polkit-gnome
+bc
+mpv
+mpv-mpris
+brightnessctl
+nwg-look
+
