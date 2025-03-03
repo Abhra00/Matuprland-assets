@@ -66,6 +66,7 @@ catnap
 
 # kernel & nvidia drivers
 linux-headers
+dkms
 nvidia-dkms
 
 # file manager & media utilities
