@@ -104,4 +104,5 @@ mpv
 mpv-mpris
 brightnessctl
 nwg-look
+cava
 
