@@ -59,6 +59,7 @@ noto-fonts-emoji
 # aur packages
 librewolf-bin
 matugen-bin
+cava
 python-pywalfox
 wlogout
 ttf-maple-beta
@@ -105,5 +106,7 @@ mpv
 mpv-mpris
 brightnessctl
 nwg-look
-cava
-
+fd
+lazygit 
+gripgrep
+git-delta
