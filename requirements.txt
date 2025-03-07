@@ -65,7 +65,6 @@ wlogout
 ttf-maple-beta
 ttf-maple-beta-nf
 ttf-maple-beta-nf-cn
-catnap
 
 # kernel & nvidia drivers
 linux-headers
@@ -101,6 +100,7 @@ spotify-launcher
 fzf
 polkit
 polkit-gnome
+fastfetch
 bc
 mpv
 mpv-mpris
