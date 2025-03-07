@@ -18,7 +18,7 @@ waybar
 
 # essential utilities
 libnotify
-nerd-fonts(geist-mono)
+nerd-fonts(geist-mono, ibmplex)
 rustup
 neovim
 zsh
@@ -62,9 +62,7 @@ matugen-bin
 cava
 python-pywalfox
 wlogout
-ttf-maple-beta
-ttf-maple-beta-nf
-ttf-maple-beta-nf-cn
+
 
 # kernel & nvidia drivers
 linux-headers
