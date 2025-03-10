@@ -36,7 +36,6 @@ jq
 slurp
 wl-clipboard
 cliphist
-rofi-wayland
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-gtk
 swappy
