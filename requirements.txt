@@ -15,6 +15,7 @@ swww
 foot
 swaync
 waybar
+rofi-wayland
 
 # essential utilities
 libnotify
