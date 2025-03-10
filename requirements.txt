@@ -41,7 +41,7 @@ xdg-desktop-portal-gtk
 swappy
 
 # image processing & viewing
-imv
+swayimg
 imagemagick
 
 # user directories
