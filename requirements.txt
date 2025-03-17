@@ -109,3 +109,4 @@ fd
 lazygit 
 gripgrep
 git-delta
+chafa
